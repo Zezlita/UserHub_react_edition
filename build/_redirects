@@ -1,0 +1,4 @@
+/*   /index.html   200
+
+
+//Need to add this page in builds: because Netlify isn't really set up to serve Single Page Applications (like ours). It tries to find subfolders for those routes, and serve up files from them. In a single page app, those folders simply don't exist.

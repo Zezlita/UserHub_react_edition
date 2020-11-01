@@ -30,6 +30,22 @@ header .user-select select {
   margin-right: .5em;
 }
 
+header .user-select a {
+  padding: 8px 12px;
+  color: #333333;
+  font-weight: bold;
+  font-size: 1em;
+  color: #8ff;
+  background: #333333;
+  margin-right: .5em;
+}
+
+header .user-select a.current {
+  background: #8ff;
+  color: #333333;
+}
+
+
 header .user-select select,
 header .user-select button {
   padding: 8px 12px;
